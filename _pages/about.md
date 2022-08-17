@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Jiankang Deng obtained his PhD degree (2020) under the supervision of Prof. [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/) and he was funded by the [Imperial President's PhD Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/). He has been working in the field of deep face analysis with particular interests in building real-world working systems (e.g. [InsightFace.ai](http://insightface.ai/) and [Facesoft.io](https://craft.co/facesoft)). He also won many visual perception challenges (e.g. ImageNet and ActivityNet) in the past years.
+Jiankang Deng obtained his PhD degree (2020) from the [IBUG](https://ibug.doc.ic.ac.uk/home) group under the supervision of Prof. [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/) and he was funded by the [Imperial President's PhD Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/). He has been working in the field of deep face analysis with particular interests in building real-world working systems (e.g. [InsightFace.ai](http://insightface.ai/) and [Facesoft.io](https://craft.co/facesoft)). He also won many visual perception challenges (e.g. ImageNet and ActivityNet) in the past years.
 
 Feel free to reach out to me via e-mail for any inquiry!
 
