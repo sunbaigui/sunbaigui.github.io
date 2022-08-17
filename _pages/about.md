@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Researcher in Computer Vision @ London
+description: Researcher in Computer Vision
 
 profile:
   align: right
