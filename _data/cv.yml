@@ -13,23 +13,17 @@
   contents:
     - title: PhD Degree
       institution: Imperial College London
-      year: 2020
+      year: 2016.10 - 2020.09
       description:
-          - computing
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
+          - Computing Research
     - title: Master Degree
       institution: Nanjing University of Information Science and Technology
-      year: 2015
+      year: 2012.09 - 2015.06
       description:
         - System Science
     - title: Bachelor Degree
       institution: Nanjing University of Information Science and Technology
-      year: 2012
+      year: 2008.09 - 2012.06
       description:
         - System Engineer
 
@@ -38,30 +32,22 @@
   contents:
     - title: Research & Development (R&D) Director
       institution: Facesoft
-      year: 2018 - 2020
+      year: 2018.04 - 2020.06
       description:
         - Design face analysis system on cloud and edge.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
     - title: Research Intern
-      institution: Facebook/Meta
-      year: 2019
+      institution: Facebook (Meta)
+      year: 2019.06 - 2019.09
       description:
         - Face expression generation.
-#         - Description 2.
-
     - title: Research Intern
-      institution: Microsoft Research Asia.
-      year: 2015
+      institution: Microsoft Research Asia
+      year: 2015.03 - 2015.08
       description:
         - Clothing detection and analysis.
-
     - title: Research Intern
       institution: Baidu Institude of Deep Learning
-      year: 2013
+      year: 2013.12 - 2014.05
       description:
         - Face detection and analysis.
 
@@ -70,7 +56,7 @@
   contents:
     - title: <a href="https://github.com/deepinsight/insightface">insightface</a>
       year: 2018-now
-      description: 2D and 3D Face Analysis Project.
+      description: 2D and 3D face analysis project.
 
 - title: Honors and Awards
   type: time_table
@@ -80,7 +66,7 @@
         - WCPA 2022, perspective projection based monocular 3D face reconstruction, Rank 1st.
     - year: 2021
       items: 
-        - Baidu Talent 2021, Global Top 100 Chinese Rising Stars in Artificial Intelligence.
+        - Baidu Talent 2021, global top 100 Chinese rising stars in artificial intelligence.
     - year: 2019
       items:
         - DFW 2019, disguised face recognition challenge, Rank 1st
@@ -91,25 +77,20 @@
     - year: 2017
       items:          
         - ActivityNet 2017, untrimmed video classification, Rank 1st.
-        - ILSVRC 2017: Object detection/tracking from videos, Rank 1st.
-        - ILSVRC 2017: Object detection, Rank 1st.
+        - ImageNet 2017, object detection/tracking from videos, Rank 1st.
+        - ImageNet 2017, object detection, Rank 1st.
         
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: deep face analysis
+    - title: Deep Face Analysis
       items: 
-        - face detection
-        - face alignment
-        - face reconstuction
-        - face recognition
-        - face generation
-    - title: open-world learning
+        - geometry
+        - texture
+        - identity
+    - title: Open-world Learning
       items:
-        - noise learning.
-        - long-tail learning.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - large scale
+        - label noise 
+        - long tail 
+        - multi modality
