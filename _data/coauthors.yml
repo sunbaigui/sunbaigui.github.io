@@ -1,34 +1,75 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Zafeiriou":
+  - firstname: ["Stefanos"]
+    url: https://scholar.google.com/citations?user=QKOH5iYAAAAJ&hl=en
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Guo":
+  - firstname: ["Jia"]
+    url: https://scholar.google.com/citations?user=H_-hMLUAAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Liu":
+  - firstname: ["Qingshan"]
+    url: https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Chrysos":
+  - firstname: ["Grigorios"]
+    url: https://scholar.google.com/citations?user=1bU041kAAAAJ&hl=en
+    
+"Kotsia":
+  - firstname: ["Irene"]
+    url: https://scholar.google.com/citations?user=RwDV2kAAAAAJ&hl=en
+    
+"Zhou":
+  - firstname: ["Yuxiang"]
+    url: https://scholar.google.com/citations?user=3dYhzNQAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Yang":
+  - firstname: ["Jing"]
+    url: https://scholar.google.com/citations?user=a0HJYXcAAAAJ&hl=en
+    
+"Moschoglou":
+  - firstname: ["Stylianos"]
+    url: https://scholar.google.com/citations?user=bMuT5mkAAAAJ&hl=en
+    
+"Ververas":
+  - firstname: ["Evangelos"]
+    url: https://scholar.google.com/citations?user=KkAjki8AAAAJ&hl=en
+    
+"Zhu":
+  - firstname: ["Zheng"]
+    url: https://scholar.google.com/citations?user=NmwjI0AAAAAJ&hl=en
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Liu":
+  - firstname: ["Tongliang"]
+    url: https://scholar.google.com/citations?user=EiLdZ_YAAAAJ&hl=en
+    
+"Cheng":
+  - firstname: ["Shiyang"]
+    url: https://scholar.google.com/citations?user=yIjMfQEAAAAJ&hl=en
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Papaioannou":
+  - firstname: ["Athanasios"]
+    url: https://scholar.google.com/citations?user=kgS3DP8AAAAJ&hl=en
+    
+"Gong":
+  - firstname: ["Mingming"]
+    url: https://scholar.google.com/citations?user=6BmiCJIAAAAJ&hl=en
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Lattas":
+  - firstname: ["Alexandros"]
+    url: https://scholar.google.com/citations?user=0wJRUlsAAAAJ&hl=en
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Gecer":
+  - firstname: ["Baris"]
+    url: https://scholar.google.com/citations?user=-9X8yaYAAAAJ&hl=en
+
+"An":
+  - firstname: ["Xiang"]
+    url: https://scholar.google.com/citations?user=1ckaPgwAAAAJ&hl=en
+    
+"Ploumpis":
+  - firstname: ["Stylianos"]
+    url: https://scholar.google.com/citations?user=5hM4Ul4AAAAJ&hl=en
+    
+"Xue":
+  - firstname: ["Niannan"]
+    url: https://scholar.google.com/citations?user=SE-qsVIAAAAJ&hl=en
