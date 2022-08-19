@@ -3,10 +3,8 @@
   contents:
     - name: Full Name
       value: Jiankang Deng
-    - name: Date of Birth
-      value: 5th April 1990
-    - name: Languages
-      value: English, Chinese
+    - name: Research Direction
+      value: Computer Vision
 
 - title: Education
   type: time_table
