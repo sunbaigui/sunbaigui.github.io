@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Jiankang Deng
-    - name: Research Direction
+    - name: Research Area
       value: Computer Vision
 
 - title: Education
@@ -92,3 +92,4 @@
         - label noise 
         - long tail 
         - multi modality
+        - cross domain
