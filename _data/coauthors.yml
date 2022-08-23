@@ -33,7 +33,7 @@
 "Ververas":
   - firstname: ["Evangelos"]
     url: https://scholar.google.com/citations?user=KkAjki8AAAAJ&hl=en
-    
+
 "Zhu":
   - firstname: ["Zheng"]
     url: https://scholar.google.com/citations?user=NmwjI0AAAAAJ&hl=en
@@ -97,3 +97,43 @@
 "Panagakis":
   - firstname: ["Yannis"]
     url: https://scholar.google.com/citations?user=z1bkjU8AAAAJ&hl=en
+
+"Yao":
+  - firstname: ["Yu"]
+    url: https://scholar.google.com/citations?user=OkcaMKAAAAAJ&hl=en
+    
+ "Han":
+  - firstname: ["Bo"]
+    url: https://scholar.google.com/citations?user=nTNjqHwAAAAJ&hl=en
+    
+ "Niu":
+  - firstname: ["Gang"]
+    url: https://scholar.google.com.hk/citations?user=HOkcy00AAAAJ&hl=en
+    
+ "Sugiyama":
+  - firstname: ["Masashi"]
+    url: https://scholar.google.de/citations?user=GkYIrlIAAAAJ&hl=en
+ 
+ "He":
+  - firstname: ["Ran"]
+    url: https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en
+    
+"Lu":
+  - firstname: ["Jiwen"]
+    url: https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en
+ 
+"Zhou":
+  - firstname: ["Jie"]
+    url: https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en
+ 
+"Luo":
+  - firstname: ["Wenhan"]
+    url: https://scholar.google.com.hk/citations?user=g20Q12MAAAAJ&hl=en
+    
+"Liu":
+  - firstname: ["Wei"]
+    url: https://scholar.google.com.hk/citations?user=AjxoEpIAAAAJ&hl=en
+    
+"Wang":
+  - firstname: ["Nannan"]
+    url: https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=en
