@@ -14,6 +14,12 @@
   - firstname: ["Qingshan"]
     url: https://scholar.google.com/citations?user=2Pyf20IAAAAJ&hl=en
 
+  - firstname: ["Tongliang"]
+    url: https://scholar.google.com/citations?user=EiLdZ_YAAAAJ&hl=en
+    
+  - firstname: ["Wei"]
+    url: https://scholar.google.com.hk/citations?user=AjxoEpIAAAAJ&hl=en
+    
 "Chrysos":
   - firstname: ["Grigorios G"]
     url: https://scholar.google.com/citations?user=1bU041kAAAAJ&hl=en
@@ -22,10 +28,6 @@
   - firstname: ["Irene"]
     url: https://scholar.google.com/citations?user=RwDV2kAAAAAJ&hl=en
     
-"Zhou":
-  - firstname: ["Yuxiang"]
-    url: https://scholar.google.com/citations?user=3dYhzNQAAAAJ&hl=en
-
 "Yang":
   - firstname: ["Jing"]
     url: https://scholar.google.com/citations?user=a0HJYXcAAAAJ&hl=en
@@ -42,10 +44,6 @@
   - firstname: ["Zheng"]
     url: https://scholar.google.com/citations?user=NmwjI0AAAAAJ&hl=en
 
-"Liu":
-  - firstname: ["Tongliang"]
-    url: https://scholar.google.com/citations?user=EiLdZ_YAAAAJ&hl=en
-    
 "Cheng":
   - firstname: ["Shiyang"]
     url: https://scholar.google.com/citations?user=yIjMfQEAAAAJ&hl=en
@@ -89,6 +87,8 @@
 "Luo":
   - firstname: ["Shan"]
     url: https://scholar.google.co.uk/citations?user=ArnkrbwAAAAJ&hl=en
+  - firstname: ["Wenhan"]
+    url: https://scholar.google.com.hk/citations?user=g20Q12MAAAAJ&hl=en
     
 "Zhang":
   - firstname: ["Kaihao"]
@@ -129,14 +129,9 @@
 "Zhou":
   - firstname: ["Jie"]
     url: https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en
- 
-"Luo":
-  - firstname: ["Wenhan"]
-    url: https://scholar.google.com.hk/citations?user=g20Q12MAAAAJ&hl=en
-    
-"Liu":
-  - firstname: ["Wei"]
-    url: https://scholar.google.com.hk/citations?user=AjxoEpIAAAAJ&hl=en
+
+  - firstname: ["Yuxiang"]
+    url: https://scholar.google.com/citations?user=3dYhzNQAAAAJ&hl=en
     
 "Wang":
   - firstname: ["Nannan"]
