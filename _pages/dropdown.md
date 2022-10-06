@@ -5,18 +5,13 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: detection
-      permalink: /publications/
+    - title: face detection
+      permalink: http://demo.insightface.ai:7007/
     - title: divider
-    - title: alignment
-      permalink: /publications/
+    - title: face recognition
+      permalink: http://demo.insightface.ai:7008/
     - title: divider
-    - title: reconstruction
-      permalink: /publications/
-    - title: divider
-    - title: recognition
-      permalink: /publications/
-    - title: divider
-    - title: generation
-      permalink: /publications/
+    - title: face swapping
+      permalink: http://demo.insightface.ai:7009/
+      
 ---
