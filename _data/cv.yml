@@ -28,6 +28,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Honorary Lecturer
+      institution: Imperial College London
+      year: 2023.04 - 
+      description:
+        - Deep face analysis and open world learning
     - title: Research & Development (R&D) Director
       institution: Facesoft
       year: 2018.04 - 2020.06
