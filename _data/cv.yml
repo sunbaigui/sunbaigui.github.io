@@ -33,7 +33,7 @@
       year: 2023.04 - Now
       description:
         - Deep face analysis
-    - title: Project Manager
+    - title: Principal Researcher
       institution: Huawei UKRD
       year: 2020.06 - Now
       description:
@@ -93,9 +93,9 @@
   contents:
     - title: Deep Face Analysis
       items: 
+      	- identity
         - geometry
         - texture
-        - identity
     - title: Open-world Learning
       items:
         - large scale
