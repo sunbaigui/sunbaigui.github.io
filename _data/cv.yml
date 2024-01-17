@@ -92,8 +92,7 @@
   type: nested_list
   contents:
     - title: Deep Face Analysis
-      items: 
-      	- identity
+      items:
         - geometry
         - texture
     - title: Open-world Learning
