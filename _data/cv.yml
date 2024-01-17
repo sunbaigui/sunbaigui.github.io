@@ -95,6 +95,7 @@
       items:
         - geometry
         - texture
+        - identity
     - title: Open-world Learning
       items:
         - large scale
