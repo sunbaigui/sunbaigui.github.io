@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jiankang
+first_name: Baigui
 middle_name: 
-last_name: Deng
-email: jiankangdeng@gmail.com
-description: Researcher in Computer Vision 
+last_name: Sun
+email: sunbaigui85@gmail.com
+description: R&D in Computer Vision 
 # the ">" symbol means to ignore newlines until "footer_text:"
    
 footer_text: >
@@ -222,8 +222,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Deng
-  first_name: [Jiankang, J.]
+  last_name: Sun
+  first_name: [Baigui, B.]
 
   style: apa
   locale: en
