@@ -1,7 +1,5 @@
 github_users:
-  - jiankangdeng
+  - sunbaigui
 
 github_repos:
-  - deepinsight/insightface
-  - grigorisg9gr/polynomial_nets
-  - jiankangdeng/MenpoBenchmark
+  - modelscope/facechain
