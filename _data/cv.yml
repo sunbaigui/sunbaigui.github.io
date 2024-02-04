@@ -27,12 +27,12 @@
       institution: Alibaba Group
       year: 2023.08 - Now
       description:
-        - in charge of FaceChain since 2023.08：https://github.com/modelscope/facechain.
+        - in charge of <a href="https://github.com/modelscope/facechain">facechain</a> since 2023.08.
     - title: Staff Algorithm Engineer
       institution: Alibaba Group
       year: 2018.06 - Now
       description:
-        - focus on face recognition since 2018.6，widely used in dingding attendance device, face api on aliyun.com, and open source.
+        - in charge of face recognition since 2018.6，widely used in dingding attendance device, face api on aliyun.com, and open source.
     - title: Algorithm Expert
       institution: Alibaba Group
       year: 2017.04 - 2018.06
@@ -40,7 +40,7 @@
         - 1~2 years, developed a bunch of algorithms for image's violation detection such as porn, violence, politics and so on, hundreds of millions calls daily, launched in yundun product of aliyun.        
     - title: Algorithm Expert
       institution: Alibaba Group
-      year: 2016.04 - 2018.04
+      year: 2015.04 - 2017.04
       description:
         - 1~2 years, developed and applied high dimension sparse DL system to CTR for search and recommendation in double 11 sales day 2016, got a huge CTR improvement both in daily and sales day.
     - title: Senior Algorithm Engineer
@@ -50,7 +50,7 @@
         - 1~2 years, developed common item image search, 8% absolutely map@10 improvement vs original algorithm, launched in pailitao of taobao.
     - title: Algorithm Engineer
       institution: Alibaba Group
-      year: 2014.04 - 2016.04
+      year: 2014.04 - 2015.04
       description:
         - 1~2 years, developed image quality assessment(niupixuan), launched in tujing platform, used in almost every item management system inside alibaba group.                
 - title: Open Source Projects
