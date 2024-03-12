@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Baigui Sun is currently a Staff Engineer at the Department of TongYi, Alibaba Group.
+Baigui Sun has over 10 years of AI R&D experience, including 3 years at Alibaba Taobao Technology & Search Division and 6 years at Alibaba DAMO Academy. Currently, he is a Staff Engineer at the TongYi Department, Alibaba Group. He is also a reviewer for international top conferences and journals such as CVPR, ICCV, ICML, NeurIPS, and TPAMI.
 <!--
  He obtained his PhD degree (2020) from the [IBUG](https://ibug.doc.ic.ac.uk/home) group, supervised by Prof. [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/) and funded by the prestigious [Imperial President's PhD Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/). He has been working in the field of deep face analysis (e.g., efficient geometry estimation, photorealistic texture modelling, and robust feature embedding) with particular interests in building real-world working systems (e.g., [InsightFace.ai](http://insightface.ai/) and [Facesoft.io](https://craft.co/facesoft)). He also won many visual perception challenges (e.g., [ImageNet](https://image-net.org/challenges/beyond_ilsvrc) and [ActivityNet](http://activity-net.org/challenges/2017/program.html)) in the past years.
 -->
